@@ -118,3 +118,28 @@ class UtilityButton():
             self.do_action()
             return True
         return False
+    
+class MenuButton():
+    """Create a new button that can do a specific action given in parameter"""
+    def __init__(self, game, pos, image) -> None:
+        self.game = game
+        self.screen = game.screen
+        self.space = game.space
+        self.pos = pos
+        self.image = image
+        self.rect = None
+
+    def draw(self):
+        """Draw a utility button"""
+
+        image = pygame.image.load(self.image)
+
+        #draw image and clickable rect
+        self.rect = pygame.draw.rect(self.screen, (255, 0, 0), (self.pos[0] + 15, self.pos[1] + 10, image.get_width() - 30, image.get_height() - 22))
+        self.screen.blit(image, self.pos)
+
+    def check_clicked(self):
+        """Return True if button clicked"""
+        if self.rect.collidepoint(pygame.mouse.get_pos()) and pygame.mouse.get_pressed()[0]:
+            return True
+        return False
