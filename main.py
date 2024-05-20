@@ -38,8 +38,13 @@ if __name__ == "__main__":
 
     game = Game(WIDTH, HEIGHT, FPS)
 
+    ##################################################
+    #EDIT THIS IF U WANT TO LAUNCH LEVEL MAKER MODE
+
     #set_level_maker_mode(game)
     set_play_mode(game)
+
+    ####################################################
     game_mode = game.active_gamemode
 
     game.draw_walls()
