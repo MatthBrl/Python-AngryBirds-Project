@@ -1,0 +1,115 @@
+{
+    "items": [
+        {
+            "type": 1,
+            "pos": [
+                871.0,
+                456.0
+            ],
+            "rotation": 0.0,
+            "density": 2,
+            "restitution": 0.4,
+            "texture": "resources\\textures\\plank.png",
+            "color": [
+                255,
+                0,
+                0
+            ],
+            "dimension": [
+                17,
+                77
+            ]
+        },
+        {
+            "type": 0,
+            "pos": [
+                871.0,
+                404.52212512213055
+            ],
+            "rotation": 0.0,
+            "density": 2,
+            "restitution": 0.4,
+            "texture": "resources\\textures\\pig.png",
+            "color": [
+                255,
+                0,
+                0
+            ],
+            "radius": 13
+        },
+        {
+            "type": 1,
+            "pos": [
+                964.0,
+                456.0
+            ],
+            "rotation": 0.0,
+            "density": 2,
+            "restitution": 0.4,
+            "texture": "resources\\textures\\plank.png",
+            "color": [
+                255,
+                0,
+                0
+            ],
+            "dimension": [
+                17,
+                77
+            ]
+        },
+        {
+            "type": 0,
+            "pos": [
+                964.0,
+                404.52212512213055
+            ],
+            "rotation": 0.0,
+            "density": 2,
+            "restitution": 0.4,
+            "texture": "resources\\textures\\pig.png",
+            "color": [
+                255,
+                0,
+                0
+            ],
+            "radius": 13
+        },
+        {
+            "type": 1,
+            "pos": [
+                1061.0,
+                456.0
+            ],
+            "rotation": 0.0,
+            "density": 2,
+            "restitution": 0.4,
+            "texture": "resources\\textures\\plank.png",
+            "color": [
+                255,
+                0,
+                0
+            ],
+            "dimension": [
+                17,
+                77
+            ]
+        },
+        {
+            "type": 0,
+            "pos": [
+                1061.0,
+                404.52212512213055
+            ],
+            "rotation": 0.0,
+            "density": 2,
+            "restitution": 0.4,
+            "texture": "resources\\textures\\pig.png",
+            "color": [
+                255,
+                0,
+                0
+            ],
+            "radius": 13
+        }
+    ]
+}

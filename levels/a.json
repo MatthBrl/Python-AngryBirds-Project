@@ -1,0 +1,98 @@
+{
+    "items": [
+        {
+            "type": 1,
+            "pos": [
+                935.7221433450748,
+                455.98746232505755
+            ],
+            "rotation": -0.18706415490797199,
+            "density": 2,
+            "restitution": 0.4,
+            "texture": "resources\\textures\\plank.png",
+            "color": [
+                255,
+                0,
+                0
+            ],
+            "dimension": [
+                17,
+                77
+            ]
+        },
+        {
+            "type": 1,
+            "pos": [
+                1000.1870203330856,
+                455.9891208076052
+            ],
+            "rotation": 0.0910566169610166,
+            "density": 2,
+            "restitution": 0.4,
+            "texture": "resources\\textures\\plank.png",
+            "color": [
+                255,
+                0,
+                0
+            ],
+            "dimension": [
+                17,
+                77
+            ]
+        },
+        {
+            "type": 0,
+            "pos": [
+                969.0,
+                481.50212277804746
+            ],
+            "rotation": 0.0,
+            "density": 2,
+            "restitution": 0.4,
+            "texture": "resources\\textures\\pig.png",
+            "color": [
+                255,
+                0,
+                0
+            ],
+            "radius": 13
+        },
+        {
+            "type": 0,
+            "pos": [
+                969.0920999045563,
+                387.5098051846652
+            ],
+            "rotation": -25.23337201074933,
+            "density": 2,
+            "restitution": 0.4,
+            "texture": "resources\\textures\\pig.png",
+            "color": [
+                255,
+                0,
+                0
+            ],
+            "radius": 13
+        },
+        {
+            "type": 1,
+            "pos": [
+                966.6410844768917,
+                408.99329031900436
+            ],
+            "rotation": -90.02506856913348,
+            "density": 2,
+            "restitution": 0.4,
+            "texture": "resources\\textures\\plank.png",
+            "color": [
+                255,
+                0,
+                0
+            ],
+            "dimension": [
+                17,
+                77
+            ]
+        }
+    ]
+}

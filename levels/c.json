@@ -1,0 +1,98 @@
+{
+    "items": [
+        {
+            "type": 1,
+            "pos": [
+                949.9997634504907,
+                456.0
+            ],
+            "rotation": 0.0,
+            "density": 2,
+            "restitution": 0.4,
+            "texture": "resources\\textures\\plank.png",
+            "color": [
+                255,
+                0,
+                0
+            ],
+            "dimension": [
+                17,
+                77
+            ]
+        },
+        {
+            "type": 1,
+            "pos": [
+                971.0,
+                456.0
+            ],
+            "rotation": 0.0,
+            "density": 2,
+            "restitution": 0.4,
+            "texture": "resources\\textures\\plank.png",
+            "color": [
+                255,
+                0,
+                0
+            ],
+            "dimension": [
+                17,
+                77
+            ]
+        },
+        {
+            "type": 1,
+            "pos": [
+                964.0754566229372,
+                379.0039149361951
+            ],
+            "rotation": 0.12307148384309104,
+            "density": 2,
+            "restitution": 0.4,
+            "texture": "resources\\textures\\plank.png",
+            "color": [
+                255,
+                0,
+                0
+            ],
+            "dimension": [
+                17,
+                77
+            ]
+        },
+        {
+            "type": 0,
+            "pos": [
+                849.0,
+                481.5
+            ],
+            "rotation": 0.0,
+            "density": 2,
+            "restitution": 0.4,
+            "texture": "resources\\textures\\pig.png",
+            "color": [
+                255,
+                0,
+                0
+            ],
+            "radius": 13
+        },
+        {
+            "type": 0,
+            "pos": [
+                1066.0,
+                481.5
+            ],
+            "rotation": 0.0,
+            "density": 2,
+            "restitution": 0.4,
+            "texture": "resources\\textures\\pig.png",
+            "color": [
+                255,
+                0,
+                0
+            ],
+            "radius": 13
+        }
+    ]
+}

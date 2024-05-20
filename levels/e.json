@@ -1,0 +1,172 @@
+{
+    "items": [
+        {
+            "type": 1,
+            "pos": [
+                958.4333671211019,
+                455.9319230042221
+            ],
+            "rotation": 0.4675302793554203,
+            "density": 2,
+            "restitution": 0.4,
+            "texture": "resources\\textures\\plank.png",
+            "color": [
+                255,
+                0,
+                0
+            ],
+            "dimension": [
+                17,
+                77
+            ]
+        },
+        {
+            "type": 0,
+            "pos": [
+                990.2405566553856,
+                336.4028372517826
+            ],
+            "rotation": 0.3487808988110809,
+            "density": 2,
+            "restitution": 0.4,
+            "texture": "resources\\textures\\pig.png",
+            "color": [
+                255,
+                0,
+                0
+            ],
+            "radius": 13
+        },
+        {
+            "type": 1,
+            "pos": [
+                989.8260558752506,
+                404.92321107501067
+            ],
+            "rotation": -90.01270428736092,
+            "density": 2,
+            "restitution": 0.4,
+            "texture": "resources\\textures\\plank.png",
+            "color": [
+                255,
+                0,
+                0
+            ],
+            "dimension": [
+                17,
+                77
+            ]
+        },
+        {
+            "type": 1,
+            "pos": [
+                1073.4849348229343,
+                404.96293977377303
+            ],
+            "rotation": -90.0025862353302,
+            "density": 2,
+            "restitution": 0.4,
+            "texture": "resources\\textures\\plank.png",
+            "color": [
+                255,
+                0,
+                0
+            ],
+            "dimension": [
+                17,
+                77
+            ]
+        },
+        {
+            "type": 1,
+            "pos": [
+                1033.9886873104526,
+                455.97242156463483
+            ],
+            "rotation": 0.187284146883044,
+            "density": 2,
+            "restitution": 0.4,
+            "texture": "resources\\textures\\plank.png",
+            "color": [
+                255,
+                0,
+                0
+            ],
+            "dimension": [
+                17,
+                77
+            ]
+        },
+        {
+            "type": 1,
+            "pos": [
+                1104.7494007693278,
+                455.929455911903
+            ],
+            "rotation": -0.4848112526147215,
+            "density": 2,
+            "restitution": 0.4,
+            "texture": "resources\\textures\\plank.png",
+            "color": [
+                255,
+                0,
+                0
+            ],
+            "dimension": [
+                17,
+                77
+            ]
+        },
+        {
+            "type": 0,
+            "pos": [
+                1072.0419772696116,
+                333.44605810535666
+            ],
+            "rotation": -27.980533616227557,
+            "density": 2,
+            "restitution": 0.4,
+            "texture": "resources\\textures\\pig.png",
+            "color": [
+                255,
+                0,
+                0
+            ],
+            "radius": 13
+        },
+        {
+            "type": 0,
+            "pos": [
+                1073.0,
+                481.5
+            ],
+            "rotation": 0.0,
+            "density": 2,
+            "restitution": 0.4,
+            "texture": "resources\\textures\\pig.png",
+            "color": [
+                255,
+                0,
+                0
+            ],
+            "radius": 13
+        },
+        {
+            "type": 0,
+            "pos": [
+                993.0,
+                481.5
+            ],
+            "rotation": 0.0,
+            "density": 2,
+            "restitution": 0.4,
+            "texture": "resources\\textures\\pig.png",
+            "color": [
+                255,
+                0,
+                0
+            ],
+            "radius": 13
+        }
+    ]
+}

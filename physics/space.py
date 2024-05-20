@@ -85,7 +85,7 @@ class Space():
                     ###ADDED FOR THE GAME (delete a pig if he collide with a bird or a plank with high velocity)
                     if (body_a.linear_velocity.x >= 10 or body_a.linear_velocity.y >= 10) and \
                     body_a.shape_type == Shape.CIRCLE and body_b.shape_type == Shape.CIRCLE and \
-                    body_a.radius != body_b.radius:
+                    body_b.radius == 13:
                         self.to_delete.append(j)
                     elif (body_a.linear_velocity.x >= 200 or body_a.linear_velocity.y >= 200) and \
                     body_a.shape_type == Shape.BOX and body_b.shape_type == Shape.CIRCLE and \
