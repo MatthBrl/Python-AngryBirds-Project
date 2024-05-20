@@ -1,0 +1,84 @@
+{
+    "items": [
+        {
+            "type": 1,
+            "pos": [
+                1028.5241798606148,
+                455.99680282505057
+            ],
+            "rotation": 0.021569523078797875,
+            "dimension": [
+                17,
+                77
+            ],
+            "density": 2,
+            "restitution": 0.4,
+            "texture": "resources\\textures\\plank.png",
+            "color": [
+                255,
+                0,
+                0
+            ]
+        },
+        {
+            "type": 1,
+            "pos": [
+                1028.634351996177,
+                378.97661616381015
+            ],
+            "rotation": 0.3152499203267871,
+            "dimension": [
+                17,
+                77
+            ],
+            "density": 2,
+            "restitution": 0.4,
+            "texture": "resources\\textures\\plank.png",
+            "color": [
+                255,
+                0,
+                0
+            ]
+        },
+        {
+            "type": 1,
+            "pos": [
+                1115.8445226511726,
+                455.9299274303804
+            ],
+            "rotation": -0.48150655788426727,
+            "dimension": [
+                17,
+                77
+            ],
+            "density": 2,
+            "restitution": 0.4,
+            "texture": "resources\\textures\\plank.png",
+            "color": [
+                255,
+                0,
+                0
+            ]
+        },
+        {
+            "type": 1,
+            "pos": [
+                1115.4572369996133,
+                378.8621952825219
+            ],
+            "rotation": 0.007512039024538796,
+            "dimension": [
+                17,
+                77
+            ],
+            "density": 2,
+            "restitution": 0.4,
+            "texture": "resources\\textures\\plank.png",
+            "color": [
+                255,
+                0,
+                0
+            ]
+        }
+    ]
+}

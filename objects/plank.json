@@ -1,0 +1,8 @@
+{
+    "type": "BOX",
+    "name": "Plank",
+    "dimension": [17, 77],
+    "density": 2,
+    "restitution": 0.4,
+    "texture": "resources\\textures\\plank.png"
+}

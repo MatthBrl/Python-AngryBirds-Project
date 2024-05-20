@@ -1,0 +1,8 @@
+{
+    "type": "CIRCLE",
+    "name": "Pig",
+    "radius": 13,
+    "density": 2,
+    "restitution": 0.4,
+    "texture": "resources\\textures\\pig.png"
+}
