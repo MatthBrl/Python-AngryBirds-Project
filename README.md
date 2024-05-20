@@ -15,3 +15,13 @@ Spécificité:
 - Le jeu à été pensé pour pouvoir facilement rajouter des objets (planche, cube...).
 
 
+## Lien du GitHub
+
+https://github.com/MatthBrl/Python-AngryBirds-Project
+
+Fait par 
+- Paul LESAGE
+- Erwan BLOUIN
+- Rayan EL AMJAD
+- Enzo CARREIRAS
+- Matthéo BURLION
